@@ -3,7 +3,7 @@
 **Created by Richard Snyder as part of my Data Analytics Master's Program*
 ## 👤 Author
 Richard Snyder  
-[LinkedIn](www.linkedin.com/in/richard-snyder-b18995266) | [GitHub](https://github.com/coffeeambush)
+[LinkedIn](https://www.linkedin.com/in/richard-snyder-b18995266) | [GitHub](https://github.com/coffeeambush)
 
 
 LoanSafe is a neural network model designed to predict safe loan amounts based on customer characteristics and flag potentially high-risk loan requests for further review. The goal is to help lenders reduce default risk and improve decision-making by leveraging predictive analytics.
