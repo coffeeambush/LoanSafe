@@ -41,6 +41,11 @@ LoanSafe is a neural network model designed to predict safe loan amounts based o
 - Expand feature set (e.g., credit score, income history)
 - Periodically retrain model with updated customer data
 - Add risk scoring logic and dashboard visualizations (optional future work)
+- 
+---
+
+## 🎤 Presentation (with Audio)
+- `LoanSafe_Presentation_with_Audio.pptx` — Includes recorded narration on each slide. Best viewed in PowerPoint with audio enabled.
 
 ---
 
