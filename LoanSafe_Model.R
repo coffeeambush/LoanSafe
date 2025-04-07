@@ -1,4 +1,4 @@
-#//R_Snyder SNHU 690
+#//R_Snyder LoanSafe Model
 #//Install Packages & Open Library
 install.packages("tree")
 install.packages("randomForest")
